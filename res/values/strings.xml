@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- To enable this application, fill the following fields.
+	     Go to http://flattr4android.com/sdk/request_token.php 
+	     if you don't already have your tokens. -->
+	<string name="token">TODO</string>
+	<string name="token_secret">TODO</string>
+	
+	<!-- Match https://flattr.com/thing/115411/Flattr-Android-SDK-Sample-Application 
+	     Any other thing will do. -->
+	<string name="sample_thing_id">e6da90873ea916a977c77ffb0197f7bf</string>
+	
+	<string name="title">Hello World, Flattr!</string>
+	<string name="app_name">Hello Flattr Android SDK</string>
+	<string name="button_xml">Vertical button, defined in XML layout</string>
+	<string name="button_prog">Horizontal button, defined programmatically</string>
+	<string name="setup_title">Sample App Setup</string>
+	<string name="setup_intro">To enable this application, you need to provide a token and a token secret for the buttons to authenticate to Flattr:</string>
+	<string name="setup_step_1">Go to http://flattr4android.com/sdk/request_token.php and get your tokens</string>
+	<string name="setup_step_2">Fill flattr-android-sdk-sample-app/res/values/strings.xml with your tokens</string>
+	<string name="setup_final">Then, build the app and run it as usual.</string>
+</resources>

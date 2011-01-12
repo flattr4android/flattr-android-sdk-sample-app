@@ -1,13 +1,13 @@
-[flattr-android-sdk](http://flattr4android.com/sdk) - Flattr Android SDK
+[flattr-android-sdk-sample-app](http://flattr4android.com/sdk)
 ================================
 
 Introduction
 ---------------
-Add a Flattr button to your Android app.
+Sample app to demonstrate the Flattr Android SDK.
 
 License
 ---------------
-The SDK is available under the [Apache licence v2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+The sample application is available under the [Apache licence v2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 Contact
 ---------------

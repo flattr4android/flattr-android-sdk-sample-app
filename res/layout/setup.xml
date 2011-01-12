@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<TextView 
+		android:text="@string/setup_title" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:textSize="20dp"
+		android:textStyle="bold"
+		android:gravity="center_horizontal"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"/>
+	<TextView 
+		android:text="@string/setup_intro"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:paddingBottom="5dp"/>
+	<TextView
+		android:text="@string/setup_step_1"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dp"
+		android:autoLink="web"
+		android:paddingBottom="5dp"/>
+	<TextView
+		android:text="@string/setup_step_2"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:paddingLeft="10dp"
+		android:paddingBottom="5dp"/>
+	<TextView
+		android:text="@string/setup_final"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"/>
+</LinearLayout>
