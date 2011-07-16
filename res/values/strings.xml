@@ -14,6 +14,7 @@
 	<string name="app_name">Hello Flattr Android SDK</string>
 	<string name="button_xml">Vertical button, defined in XML layout</string>
 	<string name="button_prog">Horizontal button, defined programmatically</string>
+	<string name="button_mini">Mini button, defined in XML layout</string>
 	<string name="setup_title">Sample App Setup</string>
 	<string name="setup_intro">To enable this application, you need to provide a token and a token secret for the buttons to authenticate to Flattr:</string>
 	<string name="setup_step_1">Go to http://flattr4android.com/sdk/request_token.php and get your tokens</string>

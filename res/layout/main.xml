@@ -32,13 +32,13 @@
     		android:layout_height="wrap_content" 
 	    	flattr_sdk:token="dde19098929666b7ce6efc0a00c77622"
     		flattr_sdk:token_secret="cf586b8f22bd30c24a2679cad179f0c7"
-	    	flattr_sdk:thing_id="@string/sample_thing_id"
+    		flattr_sdk:thing_id="e6da90873ea916a977c77ffb0197f7bf"
     		flattr_sdk:button_style="vertical"
     	/>
 	</LinearLayout>
 <TextView
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
     android:text="@string/button_prog"
     android:paddingBottom="10dp"
     />
@@ -46,6 +46,27 @@
     	android:id="@+id/button_prog_layout"
     	android:layout_width="fill_parent" 
     	android:layout_height="wrap_content" 
-    	android:gravity="center_horizontal">
+        android:gravity="center_horizontal"
+        android:paddingBottom="10dp">
+	</LinearLayout>
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/button_mini"
+    android:paddingBottom="10dp"
+    />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="10dp">
+        <com.flattr4android.sdk.FlattrButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            flattr_sdk:token="dde19098929666b7ce6efc0a00c77622"
+            flattr_sdk:token_secret="cf586b8f22bd30c24a2679cad179f0c7"
+            flattr_sdk:thing_id="e6da90873ea916a977c77ffb0197f7bf"
+            flattr_sdk:button_style="mini"
+        />
 	</LinearLayout>
 </LinearLayout>
