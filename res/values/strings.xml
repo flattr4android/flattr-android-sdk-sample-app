@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- To enable this application, fill the following fields.
-	     Go to http://flattr4android.com/sdk/request_token.php 
-	     if you don't already have your tokens. -->
-	<string name="token">TODO</string>
-	<string name="token_secret">TODO</string>
-	
 	<!-- Match https://flattr.com/thing/115411/Flattr-Android-SDK-Sample-Application 
 	     Any other thing will do. -->
-	<string name="sample_thing_id">e6da90873ea916a977c77ffb0197f7bf</string>
+	<string name="sample_thing_id">115411</string>
 	
 	<string name="title">Hello World, Flattr!</string>
 	<string name="app_name">Hello Flattr Android SDK</string>

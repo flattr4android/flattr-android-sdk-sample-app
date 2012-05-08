@@ -30,9 +30,7 @@
 		<com.flattr4android.sdk.FlattrButton
 		    android:layout_width="wrap_content" 
     		android:layout_height="wrap_content" 
-	    	flattr_sdk:token="dde19098929666b7ce6efc0a00c77622"
-    		flattr_sdk:token_secret="cf586b8f22bd30c24a2679cad179f0c7"
-    		flattr_sdk:thing_id="e6da90873ea916a977c77ffb0197f7bf"
+    		flattr_sdk:thing_id="115411"
     		flattr_sdk:button_style="vertical"
     	/>
 	</LinearLayout>
@@ -63,9 +61,7 @@
         <com.flattr4android.sdk.FlattrButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            flattr_sdk:token="dde19098929666b7ce6efc0a00c77622"
-            flattr_sdk:token_secret="cf586b8f22bd30c24a2679cad179f0c7"
-            flattr_sdk:thing_id="e6da90873ea916a977c77ffb0197f7bf"
+            flattr_sdk:thing_id="115411"
             flattr_sdk:button_style="mini"
         />
 	</LinearLayout>
